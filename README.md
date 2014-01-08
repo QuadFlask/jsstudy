@@ -32,4 +32,12 @@ function(){
 }
 ```
 
+```java
+public class A(){
+	public staticc void main(String... args){
+		System.out.println("Hello world!");
+	}
+}
+```
+
 [link](http://www.google.com)
