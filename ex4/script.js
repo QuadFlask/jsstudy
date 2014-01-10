@@ -5,7 +5,7 @@ function read(){
 function adder(){
     var number;
     while(!isNaN(number = read()) && number!= '' && number != null)
-        sum_-parseInt(number);
+        sum += parseInt(number);
     alert('sum = ' + sum);
 }
  window.onload = function(){
